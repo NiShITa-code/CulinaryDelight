@@ -1,7 +1,6 @@
 # Culinary Delights
 
-Welcome to the Flutter Culinary Delight app repository! 🎉
-
+Welcome to the Flutter Culinary Delight app repository!
 Flutter Recipe Delight is an exciting mobile app that offers users an interactive platform to explore, filter, and save their favorite recipes. Powered by Flutter and Riverpod, this open-source project aims to provide a delightful culinary experience for food enthusiasts.
 
 Tech Stack:
@@ -11,13 +10,11 @@ Tech Stack:
 🔸 Flutter Animation: Adding delightful animations to elevate the app's visual appeal.
 
 Contributing:
-🤝 welcome contributors of all levels of expertise!
+Welcome contributors of all levels of expertise!
 
-Let's savor the joy of cooking and create a remarkable culinary experience together! 😋🍕🍰
+Let's savor the joy of cooking and create a remarkable culinary experience together! 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
-
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
