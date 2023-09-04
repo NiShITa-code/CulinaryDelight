@@ -13,11 +13,9 @@ Culinary Delight is your go-to app for exploring and discovering delightful culi
 - **Recipe Library**: Access a vast collection of recipes from various cuisines and dietary preferences.
 - **Search and Filters**: Easily find recipes by ingredients, cuisine, dietary restrictions, and more.
 - **Cooking Tips**: Get expert cooking tips, techniques, and video tutorials.
-- **Meal Planner**: Plan your meals and create shopping lists.
-- **User Reviews**: Read and submit reviews and ratings for recipes you've tried.
 - **Favorite Recipes**: Save your favorite recipes for quick access.
-- **Shopping List**: Automatically generate a shopping list from your meal plans.
-- **Share and Collaborate**: Share recipes with friends and collaborate on meal planning.
+
+
 
 ## Tech Stack
 - Flutter: Building stunning and performant user interfaces for both Android and iOS.
