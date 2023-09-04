@@ -1,25 +1,42 @@
-# Culinary Delights
+# Culinary Delight
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Contributing](#contributing)
 
-Welcome to the Flutter Culinary Delight app repository!
-Flutter Recipe Delight is an exciting mobile app that offers users an interactive platform to explore, filter, and save their favorite recipes. Powered by Flutter and Riverpod, this open-source project aims to provide a delightful culinary experience for food enthusiasts.
+## Overview
 
-Tech Stack:
-🔸 Flutter: Building stunning and performant user interfaces for both Android and iOS.
-🔸 Riverpod: State management to ensure a smooth and responsive user experience.
-🔸 Firebase: Securely store and retrieve user-generated recipes and data.
-🔸 Flutter Animation: Adding delightful animations to elevate the app's visual appeal.
+Culinary Delight is your go-to app for exploring and discovering delightful culinary experiences built with flutter
+## Features
+- **Recipe Library**: Access a vast collection of recipes from various cuisines and dietary preferences.
+- **Search and Filters**: Easily find recipes by ingredients, cuisine, dietary restrictions, and more.
+- **Cooking Tips**: Get expert cooking tips, techniques, and video tutorials.
+- **Meal Planner**: Plan your meals and create shopping lists.
+- **User Reviews**: Read and submit reviews and ratings for recipes you've tried.
+- **Favorite Recipes**: Save your favorite recipes for quick access.
+- **Shopping List**: Automatically generate a shopping list from your meal plans.
+- **Share and Collaborate**: Share recipes with friends and collaborate on meal planning.
 
-Contributing:
-Welcome contributors of all levels of expertise!
+## Tech Stack
+- Flutter: Building stunning and performant user interfaces for both Android and iOS.
+- Riverpod: State management to ensure a smooth and responsive user experience.
+- Flutter Animation: Adding delightful animations to elevate the app's visual appeal.
 
-Let's savor the joy of cooking and create a remarkable culinary experience together! 
-## Getting Started
-This project is a starting point for a Flutter application.
-A few resources to get you started if this is your first Flutter project:
+## Installation
+To run the IQ Quiz App locally on your machine, follow these steps:
+1. Clone the repository
+2. Navigate to the project directory
+3. Install dependencies
+4. Start the app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+- To contribute, please follow these steps:
+- Fork the repository.
+- Create a new branch for your feature: git checkout -b feature-name
+- Make your changes and commit them: git commit -m 'Add new feature'
+- Push to your branch: git push origin feature-name
+- Create a pull request.
+- For bug fixes or feature requests, please open an issue to discuss the changes you'd like to make.
+   
